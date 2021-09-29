@@ -2,11 +2,14 @@
 
 I am Leo, A Android Developer from Hong Kong.
 
+![Leo's github stats](https://github-readme-stats.vercel.app/api?username=leokwsw&show_icons=true)
+
 ## Contact Me
 
 If you you want to ask me something, feel free to contact me!
 
 - Email: [lwokwsw [at] gmail](mailto:leokwsw@gmail.com)
+
 
 <!--
 **leokwsw/leokwsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
