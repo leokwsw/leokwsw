@@ -1,6 +1,6 @@
 # Hi, Welcome 👋
 
-I am Leo, a Android Programmer from Hong Kong.
+🤔 I am Leo, a Android Programmer from Hong Kong.
 
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=leokwsw&show_icons=true)
 
