@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi, Welcome 👋
+
+I am Leo, A Android Developer from Hong Kong.
+
+## Contact Me
+
+If you you want to ask me something, feel free to contact me!
+
+- Email: [lwokwsw [at] gmail](mailto:leokwsw@gmail.com)
 
 <!--
 **leokwsw/leokwsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
