@@ -14,3 +14,4 @@ If you you want to ask me something, feel free to contact me!
 
 - [Email](mailto:leokwsw@gmail.com)
 - [Telegram Group](https://t.me/leokwsw)
+- [Linkedin](https://www.linkedin.com/in/leokwsw/)
