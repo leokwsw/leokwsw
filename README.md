@@ -2,7 +2,8 @@
 
 🤔 I am Leo, a Android Programmer from Hong Kong.
 
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=leokwsw&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=leokwsw&show_icons=true&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leokwsw&theme=github_dark)
 
 ## 🌱 Currently Learning
 - Kotlin, Swift, Python, TypeScript
