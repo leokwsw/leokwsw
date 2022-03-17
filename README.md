@@ -1,6 +1,6 @@
-# Hi, Welcome 👋
+# Hi 👋
 
-🤔 I am Leo, A Android Programmer from Hong Kong.
+🤔 I am Leo, A Programmer from Hong Kong.
 
 ## 🌱 Currently Learning
 - Kotlin, Swift, Python, TypeScript, Java
