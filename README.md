@@ -3,7 +3,7 @@
 🤔 I am Leo, A Programmer from Hong Kong.
 
 ## 🌱 Currently Learning
-- Kotlin, Swift, Python, TypeScript, Java
+- Kotlin, Swift, TypeScript, Java
 
 ## 📫 Contact Me
 
