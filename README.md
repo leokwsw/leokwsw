@@ -3,7 +3,14 @@
 🤔 I am Leo, A Programmer from Hong Kong.
 
 ## 🌱 Currently Learning
-- Kotlin, Swift, TypeScript, Java
+- Backend : 
+  - Java / Kotlin with Spring Boot
+  - Node.js with Express.js / Hapi
+- Frontend : 
+  - Mobile : 
+    - Android : Java, Kotlin
+    - iOS : Swift
+  - Web : Vue.js, Nuxt.js
 
 ## 📫 Contact Me
 
