@@ -1,19 +1,24 @@
-# Hi 👋
+# 👋 Hello World
 
-🤔 I am Leo, A Programmer from Hong Kong.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Leokwsw&show_icons=true&count_private=true&theme=jolly&icon_color=1DA1F2&hide_title=true&hide_border=true">
 
-## 🌱 Currently Learning
-- Backend : 
-  - Java / Kotlin with Spring Boot
-  - Node.js with Express.js / Hapi
-- Frontend : 
-  - Mobile : 
-    - Android : Java, Kotlin
-    - iOS : Swift
-  - Web : Vue.js, Nuxt.js
+🤔 I am Leo, A Programmer from Hong Kong.<br/>
+Currently developing apps for mobile platform, system for backend.
 
-## 📫 Contact Me
+## 💬 Worked language for me
+- ✅   Java , Kotlin with Spring Boot
+- ✅   JavaScript, TypeScript with Express.js, Hapi
+- ✅   Java, Kotlin
+- ✅   Swift
 
-If you you want to ask me something, feel free to contact me!
+## 📮 How to reach me
 
-- [Email](mailto:leokwsw@gmail.com)
+- Email: [Here~](mailto:leokwsw@gmail.com)
+
+## Magic Number
+
+![Visited By](https://count.getloli.com/get/@leokwsw?theme=gelbooru)
+
+## 👀 Some cool stuff to look into 
+
+Have a look at pinned projects below.
