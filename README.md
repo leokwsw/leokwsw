@@ -11,6 +11,10 @@ Currently developing apps for mobile platform, system for backend.
 - ✅   Java, Kotlin
 - ✅   Swift
 
+## Git
+- GitHub
+- GitLab
+
 ## 📮 How to reach me
 
 - Email: [Here~](mailto:leokwsw@gmail.com)
