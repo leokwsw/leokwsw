@@ -6,8 +6,8 @@
 Currently developing apps for mobile platform, system for backend.
 
 ## 💬 Worked language for me
-- ✅   Java , Kotlin with Spring Boot
-- ✅   JavaScript, TypeScript with Express.js, Hapi
+- ✅   Java , Kotlin with [Spring Boot](https://spring.io/projects/spring-boot)
+- ✅   JavaScript, TypeScript with [Express.js](https://expressjs.com), [Hapi](https://hapi.dev/), [Socket.io](https://socket.io/)
 - ✅   Java, Kotlin
 - ✅   Swift
 
