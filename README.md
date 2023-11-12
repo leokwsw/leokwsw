@@ -1,7 +1,5 @@
 # 👋 Hello World
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Leokwsw&show_icons=true&count_private=true&theme=jolly&icon_color=1DA1F2&hide_title=true&hide_border=true">
-
 🤔 I am Leo, A Programmer from Hong Kong.<br/>
 Currently developing apps for mobile platform, system for backend.
 
