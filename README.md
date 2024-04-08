@@ -1,13 +1,16 @@
 # 👋 Hello World
 
-🤔 I am Leo, A Programmer from Hong Kong.<br/>
+🤔 I am Leo, A Experienced Programmer from Hong Kong.<br/>
 Currently developing apps for mobile platform, system for backend.
+Studying AI with ChatGPT/huggingface LLM Model, RAG, LLM, Flutter
 
 ## 💬 Worked language for me
-- ✅   Java , Kotlin with [Spring Boot](https://spring.io/projects/spring-boot)
-- ✅   JavaScript, TypeScript with [Express.js](https://expressjs.com), [Hapi](https://hapi.dev/), [Socket.io](https://socket.io/)
-- ✅   Java, Kotlin
-- ✅   Swift
+
+- Android : Kotlin, Java
+- iOS : Swift, Objective-C
+- WebSite : React.js, JavaScript, TypeScript
+- Backend : Java with Spring Boot Framework, TypeScript and JavaScript with Express.js and Hapi Framework, Go, Python
+- Database : Mongo, MySQL, Redis
 
 ## 📮 How to reach me
 
