@@ -14,7 +14,8 @@ Studying AI with ChatGPT/huggingface LLM Model, RAG, LLM, Flutter
 
 ## 📮 How to reach me
 
-- Email: [Here~](mailto:leokwsw@gmail.com)
+- Email: [Here](mailto:leokwsw@gmail.com)
+- LinkedIn : [Here](https://www.linkedin.com/in/leokwsw)
 
 ## Magic Number
 
