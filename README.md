@@ -1,7 +1,7 @@
 # 👋 Hello World
 
 🤔 I am Leo, A Experienced Programmer from Hong Kong.<br/>
-Currently developing apps for mobile platform, system for backend.
+Currently developing apps for mobile platform, system for backend.<br/>
 Studying AI with ChatGPT/huggingface LLM Model, RAG, LLM, Flutter
 
 ## 💬 Worked language for me
