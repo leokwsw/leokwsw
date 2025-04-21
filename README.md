@@ -1,28 +1,34 @@
-# 👋 Hello World
+# 👋 Hi, I'm Leo Wu
 
-🤔 I am Leo, A Experienced Programmer from Hong Kong.<br/>
-Currently developing apps for mobile platform, backend for system / platform.<br/>
-Studying AI with ChatGPT/huggingface LLM Model, RAG, LLM, Flutter.
+🚀 **Senior Programmer | System Architect | Tech Explorer**
 
-## 💬 Worked language for me
+I'm a Hong Kong-based full-stack developer with over 5 years of experience in mobile and web development. I specialize in Flutter, Node.js, and TypeScript, and I love building scalable systems with MongoDB, Redis, Docker, and AWS.
 
-- Android : Kotlin, Java
-- iOS : Swift, Objective-C
-- WebSite : React.js, JavaScript, TypeScript, Next.js
-- Backend : Java with Spring Boot Framework, TypeScript and JavaScript with Express.js and Hapi Framework, Go, Python
-- Database : Mongo, MySQL, Redis
-- Searching : ElasticSearch
-- Cloud : AWS, S3, EC2, AliCloud ECS, Alicloud RDS
+---
 
-## 📮 How to reach me
+## 🧑‍💻 Tech Stack
 
-- Email: [Here](mailto:leokwsw@gmail.com)
-- LinkedIn : [Here](https://www.linkedin.com/in/leokwsw)
+- **Frontend**: Android(Kotlin, Java), iOS (Swift), Next.js, React.js, HTML/CSS/JS
+- **Backend**: Node.js, TypeScript, Express.js, Hapi.js,  Java with Spring Boot, Go, Python
+- **Database**: MongoDB, Elasticsearch, Redis, MySQL
+- **DevOps**: Docker, PM2, AWS EC2/S3/CloudFront/Lambda, GitHub Actions
+- **Security & Observability**: Log Center, Rate Limiting, SSE
+- **AI/ML**: RAG with LLMs, Vector Search, OpenAI, Elastic Embeddings
 
-## Magic Number
+---
 
-![Visited By](https://count.getloli.com/get/@leokwsw?theme=gelbooru)
+## 🛠️ Featured Projects
 
-## 👀 Some cool stuff to look into 
+- **Real-time Log Center** – Mongo + Elastic log analysis with IP block, SSE streaming
+- **SaaS Email Tracker** – Built a Node.js + TypeScript tracker with MongoDB and webhook support
 
-Have a look at pinned projects below.
+---
+
+## 📬 Let's Connect
+
+- 📧 Email: [leokwsw@gmail.com](mailto:leokwsw@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/leokwsw)
+
+---
+
+> “Keep building. Stay curious. The journey is the reward.” ✨
