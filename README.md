@@ -17,13 +17,6 @@ I'm a Hong Kong-based full-stack developer with over 5 years of experience in mo
 
 ---
 
-## 🛠️ Featured Projects
-
-- **Real-time Log Center** – Mongo + Elastic log analysis with IP block, SSE streaming
-- **SaaS Email Tracker** – Built a Node.js + TypeScript tracker with MongoDB and webhook support
-
----
-
 ## 📬 Let's Connect
 
 - 📧 Email: [leokwsw@gmail.com](mailto:leokwsw@gmail.com)
