@@ -19,7 +19,7 @@ I'm a Hong Kong-based full-stack developer with over 5 years of experience in mo
 
 ## 🗂️ Project
 
-- ⌨️ -> 🗣️ [Cloudflare Worker Edge TTS Service](https://edge-tts.leokwsw.workers.dev/)
+- ⌨️ --> 🗣️ [Cloudflare Worker Edge TTS Service](https://edge-tts.leokwsw.workers.dev/)
 
 ---
 
