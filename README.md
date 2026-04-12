@@ -21,6 +21,11 @@ I'm a Hong Kong-based full-stack developer with over 5 years of experience in mo
 
 - ⌨️ --> 🗣️ [Edge TTS Service](https://edge-tts.leonardpark.dev/)
 - ⌨️ --> 🖼️ [Edge Text2Img Service](https://edge-text2img.leonardpark.dev)
+- 🔍 Coming Soon
+- 📐 Coming Soon
+- 🧠 Coming Soon
+- 🧩 Coming Soon
+- ... Coming Soon
 
 ---
 
