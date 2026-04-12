@@ -25,6 +25,7 @@ I'm a Hong Kong-based full-stack developer with over 5 years of experience in mo
 - 🧠 LLM Coming Soon
 - 🧩 SLM Coming Soon
 - 🔍 RAG Coming Soon
+- 🔀 Proxy Coming Soon
 - ... Coming Soon
 
 ---
