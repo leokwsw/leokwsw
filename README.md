@@ -22,6 +22,7 @@ I'm a Hong Kong-based full-stack developer with over 5 years of experience in mo
 - 🔊 [TTS Service](https://edge-tts.leonardpark.dev/)
 - 🖼️ [Text2Img Service](https://edge-text2img.leonardpark.dev)
 - 📐 [Embedding Service](https://edge-embedding.leonardpark.dev)
+- 📖 [Model Catalog](https://model-catalog.leonardpark.dev)
 - 🧠 LLM Coming Soon
 - 🧩 SLM Coming Soon
 - 🔍 RAG Coming Soon
