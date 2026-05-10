@@ -10,9 +10,7 @@ I'm a Hong Kong-based full-stack developer with over 5 years of experience in mo
 
 - **Frontend**: Android(Kotlin, Java), iOS (Swift), Next.js, React.js, HTML/CSS/JS
 - **Backend**: Node.js, TypeScript, Express.js, Hapi.js, Java with Spring Boot, Go, Python
-- **Database**: MongoDB, Elasticsearch, Redis, MySQL
-- **DevOps**: Docker, PM2, AWS EC2/S3/CloudFront/Lambda, GitHub Actions
-- **Security & Observability**: Log Center, Rate Limiting, SSE
+- **Database**: MongoDB, ElasticSearch, Redis, MySQL
 - **AI/ML**: RAG with LLMs, Vector Search, OpenAI, Elastic Embeddings
 
 ---
