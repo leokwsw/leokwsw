@@ -1,17 +1,19 @@
 # 👋 Hi, I'm Leo Wu
 
-🚀 **Senior Programmer | System Architect | Tech Explorer**
+🚀 **Senior Programmer | Tech Explorer**
 
-I'm a Hong Kong-based full-stack developer with over 5 years of experience in mobile and web development. I specialize in Flutter, Node.js, and TypeScript, and I love building scalable systems with MongoDB, Redis, Docker, and AWS.
+I'm a Hong Kong-based developer.
 
 ---
 
 ## 🧑‍💻 Tech Stack
 
-- **Frontend**: Android(Kotlin, Java), iOS (Swift), Next.js, React.js, HTML/CSS/JS
-- **Backend**: Node.js, TypeScript, Express.js, Hapi.js, Java with Spring Boot, Go, Python
-- **Database**: MongoDB, ElasticSearch, Redis, MySQL
-- **AI/ML**: RAG with LLMs, Vector Search, OpenAI, Elastic Embeddings
+- **Programming Languages** : TypeScript, Java, Python, Kotlin
+- **Frameworks** : Node.js, Express.js, Hapi.js, React.js, Next.js, Nest.js, Spring Boot, FastAPI, Torch, Sentence Transformers
+- **Database** : MongoDB, MySQL, ElasticSearch, Weaviate
+- **Cache** : Redis
+- **Tools** : Codex, Cursor, Intellij Idea, Android Studio
+- **Other** : RAG + Reranking with LLMs, Docker, Cloudflare Worker, AWS(EC2, S3), Google Cloud(Cloud Run, Storage), Firebase(Cloud Messaging)RESTful API integration, CI/CD Pipeline (Jenkins)
 
 ---
 
