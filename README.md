@@ -11,20 +11,20 @@ I build backend systems, full-stack web applications, and AI-powered application
 - Full-stack development with TypeScript, React, and Next.js
 - API gateway, payment workflow, queue system, and document processing
 
-## 🌟 Featured Projects
+## 💼 Featured Projects
 
-### AI / RAG
+### 🧠 AI / RAG
 
 - [local-rag](https://github.com/leokwsw/local-rag) — Local Retrieval-Augmented Generation experiment for private knowledge base workflows.
 - [raspberry-pi-5-local-rag](https://github.com/leokwsw/raspberry-pi-5-local-rag) — Local RAG system designed for Raspberry Pi 5 deployment.
 - [rag-news-summary](https://github.com/leokwsw/rag-news-summary) — AI news summarization project using RAG-style retrieval and LLM generation.
 
-### AI Gateway
+### 🔐 AI Gateway
 
 - [go-chatgpt-api](https://github.com/leokwsw/go-chatgpt-api) — OpenAI-compatible API proxy for AI service integration.
 - [openai-privacy-filter](https://github.com/leokwsw/openai-privacy-filter) — Privacy filtering layer for AI API requests.
 
-### Backend Systems
+### 🏗️ Backend Systems
 
 - [queue-room](https://github.com/leokwsw/queue-room) — Virtual waiting room system for traffic control and queue-based access.
 - [libreoffice-api](https://github.com/leokwsw/libreoffice-api) — Document conversion API for office file processing and AI ingestion workflows.
