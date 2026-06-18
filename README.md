@@ -1,17 +1,17 @@
-# Leo Wu
+# 👋 Leo Wu
 
 **Backend Developer | Analyst Programmer | AI Application Developer**
 
 I build backend systems, full-stack web applications, and AI-powered applications, with a focus on RESTful APIs, RAG systems, workflow automation, payment integration, and production-ready system design.
 
-## Focus
+## 🚀 Focus
 
 - Backend development with Java, Spring Boot, Node.js, NestJS, and FastAPI
 - AI application development with RAG, embeddings, reranking, and LLM integration
 - Full-stack development with TypeScript, React, and Next.js
 - API gateway, payment workflow, queue system, and document processing
 
-## Featured Projects
+## 🌟 Featured Projects
 
 ### AI / RAG
 
@@ -30,7 +30,7 @@ I build backend systems, full-stack web applications, and AI-powered application
 - [libreoffice-api](https://github.com/leokwsw/libreoffice-api) — Document conversion API for office file processing and AI ingestion workflows.
 - [nest-pusher](https://github.com/leokwsw/nest-pusher) — Notification / push service backend.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages:** TypeScript, Java, Python, Kotlin, Go  
 **Backend:** Spring Boot, Node.js, NestJS, FastAPI  
@@ -39,7 +39,7 @@ I build backend systems, full-stack web applications, and AI-powered application
 **Database / Search:** MySQL, MongoDB, Elasticsearch, Weaviate, Redis  
 **Cloud / DevOps:** Docker, AWS EC2, S3, Google Cloud Run, Cloudflare Workers
 
-## Contact
+## 📫 Contact
 
 - Email: [leokwsw@gmail.com](mailto:leokwsw@gmail.com)
 - LinkedIn: [linkedin.com/in/leokwsw](https://linkedin.com/in/leokwsw)
