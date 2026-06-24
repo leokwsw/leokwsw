@@ -18,6 +18,7 @@ I build backend systems, full-stack web applications, and AI-powered application
 - [local-rag](https://github.com/leokwsw/local-rag) — Local Retrieval-Augmented Generation experiment for private knowledge base workflows.
 - [raspberry-pi-5-local-rag](https://github.com/leokwsw/raspberry-pi-5-local-rag) — Local RAG system designed for Raspberry Pi 5 deployment.
 - [rag-news-summary](https://github.com/leokwsw/rag-news-summary) — AI news summarization project using RAG-style retrieval and LLM generation.
+- [poc_reactflow_rag_llm](https://github.com/leokwsw/poc_reactflow_rag_llm) - AI Workflow Builder
 
 ### 🔐 AI Gateway
 
